@@ -60,7 +60,7 @@ a:hover {
 
 
 #home {
-  background-image: url("img/bluish.jpg");
+  background-image: url(img/bluish.jpg);
   -o-background-size: cover;
   -moz-background-size: cover;
   -webkit-background-size:cover;
